@@ -13,7 +13,7 @@ import { uiRapidFirstEdit } from './rapid_first_edit_dialog';
 
 export function uiFbFeaturePicker(context, keybinding) {
     var _datum;
-    var AI_FEATURES_LIMIT_NON_TM_MODE = 50;
+    var AI_FEATURES_LIMIT_NON_TM_MODE = 500;
 
 
     function isAddFeatureDisabled() {
